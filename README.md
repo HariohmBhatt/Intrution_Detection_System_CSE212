@@ -1,4 +1,4 @@
-# IDS Core - Network Intrusion Detection System
+# IDS Core - Network Intrusion Detection System - Packet Patrol
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.6%2B-green.svg)](https://www.python.org/)
