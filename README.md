@@ -8,7 +8,7 @@
 
 ## Overview
 
-**IDS Core** is a robust, Python-based Intrusion Detection System designed to monitor network traffic and detect malicious activities in real time. Leveraging advanced machine learning techniques for threat detection, IDS Core captures and analyzes IP packets, providing immediate notifications and comprehensive logs to help secure your network against potential attacks.
+**Packet Patrol** is a robust, Python-based Intrusion Detection System designed to monitor network traffic and detect malicious activities in real time. Leveraging advanced machine learning techniques for threat detection, Packet Patrol captures and analyzes IP packets, providing immediate notifications and comprehensive logs to help secure your network against potential attacks.
 
 ---
 
@@ -45,7 +45,7 @@
 
 ### Prerequisites
 
-Before installing IDS Core, ensure you have the following:
+Before installing Packet Patrol, ensure you have the following:
 
 - **Python 3.6 or higher**
 - **Operating System:**
@@ -59,68 +59,68 @@ Before installing IDS Core, ensure you have the following:
 
 #### From the Wheel File (Windows or Linux)
 
-1. **Download** the wheel file (`ids_core-0.1.0-py3-none-any.whl`) from the project's [release page](#).
+1. **Download** the wheel file (`packet_patrol-0.1.0-py3-none-any.whl`) from the project's [release page](#).
 2. **Open Terminal/Command Prompt:** Navigate to the download directory.
 3. **Install the Package:**
    ```bash
-   pip install ids_core-0.1.0-py3-none-any.whl
-   ```
+   pip install packet_patrol-0.1.0-py3-none-any.whl
 
-## Dataset and Machine Learning Model
+# Dataset and Machine Learning Model
 
-The IDS Core system utilizes a network intrusion detection dataset (e.g., KDDTest+) to train its machine learning model. The dataset undergoes preprocessing steps including:
+The Packet Patrol system utilizes a network intrusion detection dataset (e.g., KDDTest+) to train its machine learning model. The dataset undergoes preprocessing steps including:
 
 - **Feature Selection:** Reducing the dataset to the most relevant 15 features based on mutual information.
 - **Encoding:** Converting categorical variables into numeric labels.
 - **Standardization:** Scaling features to improve model performance and convergence.
 
-### What the Machine Learning Model Does
+## What the Machine Learning Model Does
 
-The machine learning model in IDS Core is designed to analyze network traffic data and classify it as either normal or indicative of an attack. The model achieves this through:
+The machine learning model in Packet Patrol is designed to analyze network traffic data and classify it as either normal or indicative of an attack. The model achieves this through:
 
 - **Anomaly Detection:** Leveraging advanced algorithms to identify unusual patterns in network activity that may signify a security threat.
 - **Pattern Recognition:** Differentiating between benign traffic and potential intrusions by learning from historical data.
 - **Robust Classification:** Employing a combination of classifiers to boost overall prediction accuracy and minimize false positives.
 
----
-
 ## New Model Logic
 
 ### Enhanced Ensemble Modeling
 
-To further improve the performance of IDS Core, a new stacked ensemble model has been integrated. This model uses the following architecture:
+To further improve the performance of Packet Patrol, a new stacked ensemble model has been integrated. This model uses the following architecture:
 
-- **Base Models:**
-  - **XGBoost:** Captures complex patterns in the data using gradient boosting.
-  - **Random Forest:** Offers robustness and generalization through the aggregation of multiple decision trees.
-  - **MLP Classifier:** A neural network approach to capture nonlinear relationships.
-- **Meta-Estimator:**
-  - **Logistic Regression:** Combines the predictions from the base models to deliver the final decision, improving overall accuracy and reducing overfitting.
+#### Base Models
 
-This ensemble approach enables IDS Core to make more robust predictions by leveraging the strengths of multiple algorithms, making it highly effective in real-world network security scenarios.
+- **XGBoost:** Captures complex patterns in the data using gradient boosting.
+- **Random Forest:** Offers robustness and generalization through the aggregation of multiple decision trees.
+- **MLP Classifier:** A neural network approach to capture nonlinear relationships.
 
----
+#### Meta-Estimator
+
+- **Logistic Regression:** Combines the predictions from the base models to deliver the final decision, improving overall accuracy and reducing overfitting.
+
+This ensemble approach enables Packet Patrol to make more robust predictions by leveraging the strengths of multiple algorithms, making it highly effective in real-world network security scenarios.
 
 ## Usage
 
-1. **Start IDS Core:** Launch the IDS Core application via the command-line interface.
+1. **Start Packet Patrol:** Launch the Packet Patrol application via the command-line interface.
 2. **Real-Time Monitoring:** The system begins capturing network packets and analyzing them using the integrated ML models.
-3. **Alerts and Logs:** When a potential threat is detected, IDS Core immediately sends out alerts and logs detailed information for further investigation.
+3. **Alerts and Logs:** When a potential threat is detected, Packet Patrol immediately sends out alerts and logs detailed information for further investigation.
 4. **Dashboard:** Use the web-based or CLI dashboard to view live statistics and forensic logs.
 
----
+## Project Structure
+
+- **main.py:** Entry point for the application.
+- **packet_sniffer.py:** Captures network packets from the interface.
+- **packet_analyzer.py:** Processes and classifies packets using machine learning models.
+- **notifications/email_notifier.py:** Manages email notifications for detected threats.
+- **utils/logger.py:** Handles logging of network activities and events.
 
 ## Contributing
 
 Contributions are welcome! Please see our Contributing Guidelines for details on how to get started.
 
----
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 ## Future Directions
 
@@ -129,11 +129,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - **Scalability:** Enhance system performance to handle high volumes of network traffic in real time.
 - **User Interface:** Build a more user-friendly dashboard for monitoring and managing network security.
 
----
-
 ## Contact
 
 For questions, suggestions, or contributions, please contact us at:
 
-- Email: [bhatthariohm2004@gmail.com](mailto:bhatthariohm2004@gmail.com)
-- GitHub: [HariohmBhatt](https://github.com/HariohmBhatt)
+- **Email:** [bhatthariohm2004@gmail.com](mailto:bhatthariohm2004@gmail.com)
+- **GitHub:** [HariohmBhatt](https://github.com/HariohmBhatt)
