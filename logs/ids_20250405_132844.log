@@ -1,0 +1,894 @@
+2025-04-05 13:28:44,844 - ids_core - INFO - Logger initialized. Logs will be saved to logs/ids_20250405_132844.log
+2025-04-05 13:28:45,095 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 140.82.114.22:https > 10.1.208.8:47812 PA / Raw
+2025-04-05 13:28:45,096 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:47812 > 140.82.114.22:https A
+2025-04-05 13:28:45,097 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 140.82.114.22:https > 10.1.208.8:47812 PA / Raw
+2025-04-05 13:28:45,098 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 140.82.114.22:https > 10.1.208.8:47812 PA / Raw
+2025-04-05 13:28:45,099 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:47812 > 140.82.114.22:https A
+2025-04-05 13:28:45,099 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:47812 > 140.82.114.22:https A
+2025-04-05 13:28:45,100 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:47812 > 140.82.114.22:https PA / Raw
+2025-04-05 13:28:45,101 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:47812 > 140.82.114.22:https PA / Raw
+2025-04-05 13:28:45,396 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 140.82.114.22:https > 10.1.208.8:47812 A
+2025-04-05 13:28:45,397 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 140.82.114.22:https > 10.1.208.8:47812 A
+2025-04-05 13:28:45,398 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 140.82.114.22:https > 10.1.208.8:47812 PA / Raw
+2025-04-05 13:28:45,399 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 140.82.114.22:https > 10.1.208.8:47812 PA / Raw
+2025-04-05 13:28:45,399 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:47812 > 140.82.114.22:https A
+2025-04-05 13:28:45,679 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https PA / Raw
+2025-04-05 13:28:45,684 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 140.82.114.22:https > 10.1.208.8:47812 PA / Raw
+2025-04-05 13:28:45,685 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 140.82.114.22:https > 10.1.208.8:47812 PA / Raw
+2025-04-05 13:28:45,686 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:47812 > 140.82.114.22:https A
+2025-04-05 13:28:45,686 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 140.82.114.22:https > 10.1.208.8:47812 FA
+2025-04-05 13:28:45,688 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:47812 > 140.82.114.22:https PA / Raw
+2025-04-05 13:28:45,689 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:47812 > 140.82.114.22:https FA
+2025-04-05 13:28:45,695 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A
+2025-04-05 13:28:46,014 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 140.82.114.22:https > 10.1.208.8:47812 R / Padding
+2025-04-05 13:28:46,015 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https PA / Raw
+2025-04-05 13:28:46,026 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 A
+2025-04-05 13:28:46,319 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:46,319 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https A
+2025-04-05 13:28:46,320 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:46,321 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:46,322 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:46,625 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:46,626 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:46,627 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:46,628 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:46,629 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:46,630 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:46,631 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:46,632 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:46,633 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:46,633 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:46,644 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:42086 > 142.251.10.84:https A
+2025-04-05 13:28:46,715 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 142.251.10.84:https > 10.1.208.8:42086 A
+2025-04-05 13:28:46,933 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:46,934 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:46,935 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:46,936 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:46,937 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:46,937 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:46,938 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:46,939 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:46,940 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:46,940 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:46,994 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:46,996 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,000 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,001 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,137 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,138 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,139 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,139 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,140 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,141 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,141 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,142 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,198 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,199 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,203 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,204 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,238 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,239 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,241 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,241 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,254 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,255 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,256 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,257 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,306 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,307 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,308 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,310 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,321 - ids_core - INFO - Benign packet processed: Ether / IP / UDP 10.1.208.8:35097 > 239.255.255.250:1900 / Raw
+2025-04-05 13:28:47,341 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,342 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,344 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,345 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,353 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,354 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,355 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,356 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,393 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,394 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,395 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,395 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,418 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,419 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,420 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,421 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,426 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,426 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,427 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,427 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,452 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,453 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,454 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,471 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,472 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,472 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,481 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,483 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,484 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,484 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,503 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,504 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,505 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,520 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,521 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,522 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,522 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,529 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,531 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,533 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,534 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,546 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,549 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,550 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,551 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,559 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,559 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,560 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,561 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,562 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,562 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,563 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,564 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,580 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,581 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,581 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,582 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,595 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,597 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,598 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,599 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,600 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,600 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,601 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,615 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,617 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,617 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,630 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,631 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,632 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,634 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,635 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,637 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,649 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,651 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,652 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,657 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,658 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,659 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,660 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,660 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,661 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,661 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,662 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,674 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,675 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,675 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,683 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,684 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,684 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,685 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,688 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,689 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,690 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,690 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,697 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,698 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,699 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,699 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,707 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,708 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,709 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,709 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,711 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,712 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,712 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,732 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,733 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,734 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,735 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,736 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,736 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,737 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,737 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,749 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,749 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,752 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,754 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,755 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,756 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,757 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,757 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,758 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,765 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,766 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,767 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,768 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,769 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,770 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,771 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,773 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,775 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,776 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,777 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,778 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,779 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,781 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,782 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,784 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,785 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,786 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,787 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,788 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,790 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,791 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,792 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,795 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,796 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,796 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,797 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,800 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,801 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,801 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,802 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,803 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,804 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,805 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,805 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,810 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,811 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,811 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:47,812 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,813 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,814 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,816 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,818 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,818 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:47,819 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,820 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:47,821 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:48,322 - ids_core - INFO - Benign packet processed: Ether / IP / UDP 10.1.208.8:35097 > 239.255.255.250:1900 / Raw
+2025-04-05 13:28:49,196 - ids_core - INFO - Benign packet processed: Ether / IP / UDP / DNS Qry b'onedscolprduks05.uksouth.cloudapp.azure.com.'
+2025-04-05 13:28:49,198 - ids_core - INFO - Benign packet processed: Ether / IP / UDP / DNS Qry b'onedscolprduks05.uksouth.cloudapp.azure.com.'
+2025-04-05 13:28:49,211 - ids_core - INFO - Benign packet processed: Ether / IP / UDP / DNS Ans
+2025-04-05 13:28:49,219 - ids_core - INFO - Benign packet processed: Ether / IP / UDP / DNS Ans 51.132.193.105
+2025-04-05 13:28:49,221 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:48876 > 51.132.193.105:https S
+2025-04-05 13:28:49,323 - ids_core - INFO - Benign packet processed: Ether / IP / UDP 10.1.208.8:35097 > 239.255.255.250:1900 / Raw
+2025-04-05 13:28:49,390 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 51.132.193.105:https > 10.1.208.8:48876 SA
+2025-04-05 13:28:49,391 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:48876 > 51.132.193.105:https A
+2025-04-05 13:28:49,392 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:48876 > 51.132.193.105:https PA / Raw
+2025-04-05 13:28:49,594 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 51.132.193.105:https > 10.1.208.8:48876 PA / Raw
+2025-04-05 13:28:49,595 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:48876 > 51.132.193.105:https A
+2025-04-05 13:28:49,596 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:48876 > 51.132.193.105:https PA / Raw
+2025-04-05 13:28:49,800 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 51.132.193.105:https > 10.1.208.8:48876 A / Raw
+2025-04-05 13:28:49,801 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:48876 > 51.132.193.105:https A
+2025-04-05 13:28:49,802 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 51.132.193.105:https > 10.1.208.8:48876 PA / Raw
+2025-04-05 13:28:49,802 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:48876 > 51.132.193.105:https A
+2025-04-05 13:28:49,803 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:48876 > 51.132.193.105:https PA / Raw
+2025-04-05 13:28:49,827 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https PA / Raw
+2025-04-05 13:28:49,836 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https PA / Raw
+2025-04-05 13:28:49,839 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A
+2025-04-05 13:28:49,847 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 A
+2025-04-05 13:28:49,872 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:49,874 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https A
+2025-04-05 13:28:49,875 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:49,876 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https A
+2025-04-05 13:28:49,876 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 A / Raw
+2025-04-05 13:28:49,877 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https A
+2025-04-05 13:28:49,878 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:49,879 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:49,880 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https A
+2025-04-05 13:28:49,881 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https A
+2025-04-05 13:28:49,933 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 51.132.193.105:https > 10.1.208.8:48876 A
+2025-04-05 13:28:49,934 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 51.132.193.105:https > 10.1.208.8:48876 PA / Raw
+2025-04-05 13:28:49,935 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 51.132.193.105:https > 10.1.208.8:48876 FPA / Raw
+2025-04-05 13:28:49,936 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:48876 > 51.132.193.105:https A
+2025-04-05 13:28:49,937 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:48876 > 51.132.193.105:https PA / Raw
+2025-04-05 13:28:49,938 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:48876 > 51.132.193.105:https FA
+2025-04-05 13:28:50,106 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 51.132.193.105:https > 10.1.208.8:48876 A
+2025-04-05 13:28:50,323 - ids_core - INFO - Benign packet processed: Ether / IP / UDP 10.1.208.8:35097 > 239.255.255.250:1900 / Raw
+2025-04-05 13:28:50,824 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:50,825 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:50,826 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:50,827 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:50,828 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:50,828 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:50,829 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:50,830 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:50,831 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:50,832 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,131 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,133 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,133 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,134 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,135 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,136 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,137 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,137 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,138 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,139 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,208 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,208 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,209 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,210 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,211 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,211 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,302 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,303 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,304 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,304 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,306 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,306 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,354 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,355 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,356 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,357 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,357 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,358 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,411 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,413 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,414 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,414 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,415 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,416 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,461 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,462 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,463 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,466 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,467 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,484 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,486 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,487 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,488 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,522 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,524 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,526 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,528 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,563 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,564 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,565 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,566 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,585 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,588 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,589 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,590 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,618 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,619 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,620 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,621 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,623 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,651 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,653 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,655 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,656 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,665 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,666 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,667 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,667 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,668 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,693 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,694 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,695 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,696 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,697 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,714 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,716 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,717 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,719 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,720 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,726 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,728 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,729 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,731 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,732 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,746 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,748 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,749 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,750 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,751 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,768 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,769 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,770 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,770 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,776 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,776 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,777 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,777 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,778 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,794 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,796 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,797 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,799 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,812 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,812 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,813 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,816 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,818 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,819 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,820 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,833 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,835 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,835 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,836 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,837 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,849 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,851 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,853 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,854 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,856 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,858 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,859 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,859 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,860 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,861 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,862 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,868 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,869 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,870 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,871 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,871 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,872 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,873 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,882 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,883 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,884 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,884 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,885 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,889 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,890 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,893 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,893 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,894 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,902 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,903 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,903 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,904 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,905 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,914 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,915 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,916 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,917 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,920 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,921 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,921 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,922 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,922 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,932 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,933 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,934 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,935 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,936 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,944 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,945 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,945 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,946 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,946 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,948 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,949 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,950 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,950 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,951 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,960 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,961 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,961 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,962 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,962 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,971 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,972 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,973 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,973 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,974 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,974 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,975 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,975 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,986 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,986 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,987 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,988 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,988 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,995 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,996 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:51,996 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,997 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:51,998 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:51,999 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,000 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,000 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,001 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,001 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,008 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,009 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,010 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,010 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,011 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,018 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,019 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,019 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,020 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,021 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,022 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,022 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,023 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,023 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,024 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,031 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,031 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,032 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,033 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,034 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,043 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,044 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,045 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,046 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,047 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,051 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,052 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,052 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,053 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,054 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,055 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,056 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,057 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,057 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,058 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,060 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,061 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,062 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,064 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,064 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,067 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,069 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,070 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,070 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,071 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,072 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,074 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,075 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,076 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,077 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,077 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,078 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,078 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,079 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,079 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,080 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,084 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,085 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,086 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,086 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,087 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:52,091 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,092 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:52,094 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:52,094 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:53,600 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https PA / Raw
+2025-04-05 13:28:53,616 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A
+2025-04-05 13:28:53,890 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https PA / Raw
+2025-04-05 13:28:53,921 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:53,923 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https A
+2025-04-05 13:28:53,924 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:53,926 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https A
+2025-04-05 13:28:53,927 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:53,929 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:53,930 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https A
+2025-04-05 13:28:53,931 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58826 > 150.129.246.153:https A
+2025-04-05 13:28:53,932 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:53,934 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:53,935 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58826 PA / Raw
+2025-04-05 13:28:54,156 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:53652 > 35.186.224.22:https PA / Raw
+2025-04-05 13:28:54,157 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:53652 > 35.186.224.22:https PA / Raw
+2025-04-05 13:28:54,170 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 35.186.224.22:https > 10.1.208.8:53652 A
+2025-04-05 13:28:54,173 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 35.186.224.22:https > 10.1.208.8:53652 PA / Raw
+2025-04-05 13:28:54,212 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:53652 > 35.186.224.22:https A
+2025-04-05 13:28:54,285 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 35.186.224.22:https > 10.1.208.8:53652 PA / Raw
+2025-04-05 13:28:54,286 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 35.186.224.22:https > 10.1.208.8:53652 PA / Raw
+2025-04-05 13:28:54,287 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:53652 > 35.186.224.22:https A
+2025-04-05 13:28:54,288 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:53652 > 35.186.224.22:https A
+2025-04-05 13:28:54,289 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 35.186.224.22:https > 10.1.208.8:53652 PA / Raw
+2025-04-05 13:28:54,290 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:53652 > 35.186.224.22:https A
+2025-04-05 13:28:54,290 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:53652 > 35.186.224.22:https PA / Raw
+2025-04-05 13:28:54,291 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:53652 > 35.186.224.22:https PA / Raw
+2025-04-05 13:28:54,292 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 35.186.224.40:https > 10.1.208.8:54152 PA / Raw
+2025-04-05 13:28:54,293 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:54152 > 35.186.224.40:https A
+2025-04-05 13:28:54,293 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 35.186.224.40:https > 10.1.208.8:60412 PA / Raw
+2025-04-05 13:28:54,294 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:60412 > 35.186.224.40:https A
+2025-04-05 13:28:54,296 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 104.199.241.202:4070 > 10.1.208.8:54708 PA / Raw
+2025-04-05 13:28:54,297 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:54708 > 104.199.241.202:4070 A
+2025-04-05 13:28:54,304 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 35.186.224.22:https > 10.1.208.8:53652 A
+2025-04-05 13:28:54,612 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:54,614 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:54,614 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:54,615 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:54,616 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:54,617 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:54,618 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:54,618 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:54,830 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:53636 > 142.250.4.188:5228 A
+2025-04-05 13:28:54,881 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:54,883 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:54,883 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:54,884 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:54,885 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:54,885 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:54,895 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:54,898 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:54,901 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:54,902 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:54,903 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 142.250.4.188:5228 > 10.1.208.8:53636 A
+2025-04-05 13:28:55,126 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,127 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,128 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,129 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,130 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,130 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,131 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,132 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,139 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,140 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,141 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,142 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,143 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,144 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,181 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,183 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,186 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,188 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,190 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,191 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,252 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,254 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,255 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,256 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,257 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,258 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,292 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,294 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,294 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,295 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,296 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,297 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,316 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,317 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,317 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,317 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,318 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,318 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,366 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,367 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,368 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,368 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,369 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,396 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,400 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,401 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,402 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,417 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,418 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,420 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,421 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,458 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,460 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,462 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,463 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,485 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,487 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,489 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,490 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,505 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,506 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,507 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,508 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,509 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,533 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,534 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,535 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,535 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,554 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,555 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,556 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,557 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,562 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,563 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,563 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,564 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,565 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,585 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,586 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,586 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,587 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,587 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,605 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,606 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,607 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,608 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,616 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,617 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,618 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,619 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,635 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,637 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,638 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,639 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,639 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,649 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,650 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,651 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,652 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,654 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,655 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,656 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,658 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,659 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,660 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,671 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,672 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,673 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,673 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,674 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,685 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,685 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,686 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,687 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,688 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,694 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,695 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,695 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,696 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,696 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,713 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,714 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,715 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,716 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,722 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,723 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,724 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,724 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,725 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,730 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,731 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,731 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,732 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,740 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,741 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,741 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,742 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,743 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,753 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,754 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,755 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,756 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,757 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,762 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,763 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,763 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,764 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,764 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,772 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,773 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,774 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,774 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,775 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,783 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,784 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,786 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,786 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,787 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,787 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,788 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,788 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,789 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,800 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,801 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,802 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,802 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,803 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,810 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,811 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,811 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,812 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,812 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,815 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,816 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,817 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,818 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,818 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,825 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,826 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,827 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,827 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,828 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,828 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,829 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,836 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,837 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,837 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,838 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,839 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,839 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,840 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,840 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,841 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,841 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,842 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,852 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,853 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,853 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,854 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,854 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,857 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,857 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,858 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,858 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,859 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,859 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,863 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,863 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,864 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,864 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,865 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,871 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,872 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,873 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,874 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,881 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,881 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,881 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,882 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,882 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,883 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,884 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,884 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,885 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,885 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,892 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,893 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,893 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,894 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,895 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,900 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,901 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,903 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,904 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,905 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,905 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,906 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,906 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,907 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,911 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,912 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,912 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,913 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 A / Raw
+2025-04-05 13:28:55,913 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:55,914 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 150.129.246.153:https > 10.1.208.8:58836 PA / Raw
+2025-04-05 13:28:55,914 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:58836 > 150.129.246.153:https A
+2025-04-05 13:28:56,520 - ids_core - INFO - Benign packet processed: Ether / IP / UDP / DNS Qry b'default.exp-tas.com.'
+2025-04-05 13:28:56,539 - ids_core - INFO - Benign packet processed: Ether / IP / UDP / DNS Ans b'deault-exp-tas-com.e-0014.e-msedge.net.'
+2025-04-05 13:28:56,542 - ids_core - INFO - Benign packet processed: Ether / IP / UDP / DNS Qry b'e-0014.e-msedge.net.'
+2025-04-05 13:28:56,557 - ids_core - INFO - Benign packet processed: Ether / IP / UDP / DNS Ans
+2025-04-05 13:28:56,558 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https S
+2025-04-05 13:28:56,569 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 13.107.5.93:https > 10.1.208.8:57386 SA
+2025-04-05 13:28:56,570 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https A
+2025-04-05 13:28:56,571 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https PA / Raw
+2025-04-05 13:28:56,583 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 13.107.5.93:https > 10.1.208.8:57386 PA / Raw
+2025-04-05 13:28:56,584 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https A
+2025-04-05 13:28:56,585 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https PA / Raw
+2025-04-05 13:28:56,597 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 13.107.5.93:https > 10.1.208.8:57386 A / Padding
+2025-04-05 13:28:56,601 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 13.107.5.93:https > 10.1.208.8:57386 A / Raw
+2025-04-05 13:28:56,601 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https A
+2025-04-05 13:28:56,602 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 13.107.5.93:https > 10.1.208.8:57386 PA / Raw
+2025-04-05 13:28:56,604 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https PA / Raw
+2025-04-05 13:28:56,619 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 13.107.5.93:https > 10.1.208.8:57386 A / Padding
+2025-04-05 13:28:56,620 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 13.107.5.93:https > 10.1.208.8:57386 PA / Raw
+2025-04-05 13:28:56,659 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https A
+2025-04-05 13:28:56,678 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 13.107.5.93:https > 10.1.208.8:57386 A / Raw
+2025-04-05 13:28:56,679 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 13.107.5.93:https > 10.1.208.8:57386 PA / Raw / Padding
+2025-04-05 13:28:56,680 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https A
+2025-04-05 13:28:56,680 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https A
+2025-04-05 13:28:56,681 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 13.107.5.93:https > 10.1.208.8:57386 PA / Raw
+2025-04-05 13:28:56,682 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 13.107.5.93:https > 10.1.208.8:57386 PA / Raw
+2025-04-05 13:28:56,683 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 13.107.5.93:https > 10.1.208.8:57386 PA / Raw
+2025-04-05 13:28:56,684 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https A
+2025-04-05 13:28:56,684 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https A
+2025-04-05 13:28:56,685 - ids_core - INFO - Benign packet processed: Ether / IP / TCP 10.1.208.8:57386 > 13.107.5.93:https A

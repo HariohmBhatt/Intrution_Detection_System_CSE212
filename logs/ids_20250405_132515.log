@@ -1,0 +1,4 @@
+2025-04-05 13:25:15,649 - ids_core - INFO - Logger initialized. Logs will be saved to logs/ids_20250405_132515.log
+2025-04-05 13:25:15,709 - ids_core - INFO - Logger initialized. Logs will be saved to logs/ids_20250405_132515.log
+2025-04-05 13:25:15,709 - ids_core - INFO - Starting the Intrusion Detection System...
+2025-04-05 13:25:15,710 - ids_core - INFO - Starting packet sniffing on interface: wlp0s20f3

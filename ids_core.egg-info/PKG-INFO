@@ -1,0 +1,88 @@
+Metadata-Version: 2.4
+Name: ids_core
+Version: 0.1.0
+Summary: A Python-based Intrusion Detection System (IDS)
+Home-page: https://github.com/HariohmBhatt/ids-core
+Author: Hariohm Bhatt
+Author-email: bhatthariohm2004@gmail.com
+Project-URL: Source Code, https://github.com/HariohmBhatt/ids-core
+Keywords: cybersecurity,ids,intrusion detection,network security,machine learning,packet analysis
+Platform: Linux
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: Topic :: Security :: Intrusion Detection
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.19.0
+Requires-Dist: scapy>=2.4.5
+Requires-Dist: scikit-learn>=0.24.0
+Requires-Dist: pandas>=1.1.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: platform
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# IDS Core - Network Intrusion Detection System
+
+A Python-based Intrusion Detection System (IDS) that uses machine learning to detect malicious network traffic.
+
+## Overview
+`ids_core` is a Python-based Intrusion Detection System (IDS) designed to monitor network traffic for malicious activities. The system captures IP packets, analyzes them, and logs the results, providing real-time notifications when malicious packets are detected.
+
+## Features
+- Real-time packet capture and analysis
+- Machine learning-based threat detection
+- Automated email alerts when malicious packets are detected
+- Detailed logging of network activity
+- Command-line interface for easy deployment
+
+## Installation
+
+### Prerequisites
+
+- Python 3.6 or higher
+- Linux operating system
+- Root privileges (for packet sniffing)
+
+### Install from PyPI
+
+```bash
+pip install ids-core
+```
+
+## Usage
+To start the IDS, run the following command:
+```
+ids-core
+```
+
+## Structure
+The project consists of the following main components:
+- **main.py**: Entry point for the application.
+- **packet_sniffer.py**: Captures network packets.
+- **packet_analyzer.py**: Analyzes captured packets and classifies them.
+- **notifications/email_notifier.py**: Handles email notifications for malicious packets.
+- **utils/logger.py**: Provides logging functionality.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
