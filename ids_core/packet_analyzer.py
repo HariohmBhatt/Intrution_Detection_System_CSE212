@@ -4,9 +4,11 @@ import numpy as np
 from scapy.layers.inet import IP, TCP, UDP, ICMP
 from ids_core.notifications.email_notifier import send_email_notification
 
-# Load the pre-trained model
-def load_model():
-    model_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'NSL-KDD/model.pkl')
+# In load_model function, you can add an option to load the enhanced model
+def load_model(enhanced=True):
+    model_filename = 'model_e.pkl' if enhanced else 'model.pkl'
+    model_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 
+                             f'NSL-KDD/{model_filename}')
     try:
         with open(model_path, 'rb') as f:
             model = pickle.load(f)
